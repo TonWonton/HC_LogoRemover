@@ -1,7 +1,7 @@
 # HC_LogoRemover
 
 ## Description
-Toggle the logo that appears on screenshots on or off. Two files for main game and DC. Keep both files after install.
+Toggle the logo/watermark that appears on screenshots on or off. Two files for main game and DC. Keep both files after install.
 
 ## Prerequisites
 BepInEx Unity Il2Cpp (6.0.0-be-680 or newer)
